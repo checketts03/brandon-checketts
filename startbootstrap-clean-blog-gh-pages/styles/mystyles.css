@@ -1,0 +1,12 @@
+.resumeListHeading {
+    font-weight: bold;
+    text-align: left;
+  }
+  .resumeListBody {
+    font-weight: normal;
+    text-decoration: none;
+    font-style: italic;
+  }
+  .mainbody {
+    text-align: left;
+  }
